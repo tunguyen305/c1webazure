@@ -48,9 +48,9 @@
     <Reference Include="AjaxControlToolkit, Version=20.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
       <HintPath>..\packages\AjaxControlToolkit.20.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
     </Reference>
-    <Reference Include="C1.Web.Wijmo.Controls.45, Version=4.5.20202.332, Culture=neutral, PublicKeyToken=9b75583953471eea, processorArchitecture=MSIL">
+    <Reference Include="C1.Web.Wijmo.Controls.45, Version=4.5.20203.339, Culture=neutral, PublicKeyToken=9b75583953471eea, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\ComponentOne\ASP.NET Web Forms Edition\bin\v4.5.2\C1.Web.Wijmo.Controls.45.dll</HintPath>
+      <HintPath>..\dlls\C1.Web.Wijmo.Controls.45.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data.DataSetExtensions" />
