@@ -50,7 +50,7 @@
     </Reference>
     <Reference Include="C1.Web.Wijmo.Controls.45, Version=4.5.20203.339, Culture=neutral, PublicKeyToken=9b75583953471eea, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\dlls\C1.Web.Wijmo.Controls.45.dll</HintPath>
+      <HintPath>..\C1.Web.Wijmo.Controls.45.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data.DataSetExtensions" />
